@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
+* {
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+    background-color: white;
+}
+.h1-center {
+    position: absolute; 
+    left: 880px; 
+    top: 100px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+} 
+
+ 
+.btn-camisetas {
+    position: absolute; 
+    border: 1px solid #3498db;
+    padding: 5px 10px;
+    font-family: 'Rubik', sans-serif; 
+    font-weight: 400; 
+    font-size: 15px; 
+    left: 810px ; 
+    top: 250px;
+} 
+.btn-moletons {
+    position: absolute; 
+    border: 1px solid #3498db; 
+    padding: 5px 10px;
+    font-family: 'Rubik', sans-serif; 
+    font-weight: 400; 
+    font-size: 15px; 
+    left: 1000px ; 
+    top: 250px;
+} 
+.btn-calças {
+    position: absolute; 
+    border: 1px solid #3498db; 
+    padding: 5px 10px;
+    font-family: 'Rubik', sans-serif; 
+    font-weight: 400; 
+    font-size: 15px; 
+    left: 920px ; 
+    top: 250px;
+} 
+.img-1 {
+    position: absolute;
+    top: 800px; 
+    left: 800px;
+    width: 5%;
+} 
+.img-2 {
+    position: absolute;
+    top: 800px;
+    left: 1000px;
+    width: 5%;
+} 
+
+.img-3 {
+    position: absolute;
+    top: 500px; 
+    left: 600px;
+    width: 5%;
+} 
+.img-4 { 
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 5%;
+} 
+.img-5 {
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+    width: 5%;
+} 
+.img-6 {
+    position: absolute;
+    top: 500px; 
+    left: 1200px ;
+    width: 5%;
+}  
+#photo-2 {
+    display: none;
+} 
+#photo-3 {
+    display: none;
+} 
+#photo-4 {
+    display: none;
+} 
+.img-7 {
+    position: absolute;
+    top: 800px; 
+    left: 800px;
+    width: 5%;
+} 
+.img-8 {
+    position: absolute;
+    top: 800px;
+    left: 1000px;
+    width: 5%;
+} 
+.img-9 {
+    position: absolute;
+    top: 500px; 
+    left: 600px;
+    width: 5%;
+} 
+.img-10 {
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 5%;
+} 
+.img-11 {
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+    width: 5%;
+}
+.img-12 {
+    position: absolute;
+    top: 500px; 
+    left: 1200px ;
+    width: 5%;
+}
